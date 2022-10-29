@@ -6,6 +6,7 @@ Fetch information on IP addresses.
 
 ## Install
 - Clone the repository.
+- CD into the cloned directory.
 - Run `go install .`
 
 ## Preview
