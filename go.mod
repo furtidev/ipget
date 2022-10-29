@@ -1,4 +1,4 @@
-module ipget
+module github.com/furtidev/ipget
 
 go 1.19
 
