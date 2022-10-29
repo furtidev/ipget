@@ -9,7 +9,7 @@ Fetch information on IP addresses.
 - Run `go install .`
 
 ## Preview
-
+![preview](./snap.png)
 
 ## License
 This project is licensed under the MIT license.
