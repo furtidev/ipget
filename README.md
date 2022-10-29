@@ -1,4 +1,6 @@
 # ipget
+[![Go Report Card](https://goreportcard.com/badge/github.com/furtidev/ipget)](https://goreportcard.com/report/github.com/furtidev/ipget)
+
 Fetch information on IP addresses. 
 
 ## Requirements
